@@ -4,6 +4,12 @@
 
 This repository contains the model testing python notebook used to generate data found in the Group 5 Project Report.
 
+### References
+
+- Link to the paper: [https://www.biorxiv.org/content/10.1101/2020.11.17.385757v1.full](https://www.biorxiv.org/content/10.1101/2020.11.17.385757v1.full)
+- Link to the GitHub: [https://github.com/jiangdada1221/DrugOrchestra](https://github.com/jiangdada1221/DrugOrchestra)
+- Link to the data: [https://drive.google.com/file/d/1JvGDiNMAqWJb4Ya0c7ahV9fM1MCjtkxA/view](https://drive.google.com/file/d/1JvGDiNMAqWJb4Ya0c7ahV9fM1MCjtkxA/view)
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for testing purposes.
