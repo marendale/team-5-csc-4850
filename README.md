@@ -38,15 +38,9 @@ Before you begin, ensure you have the following installed:
    cd group_5_csc_4850
    ```
    
-2. **Set Up Your Environment** (Optional)
+2. **Download the Data**
    
-   It's recommended to create a Python virtual environment and install the dependencies.
-   
-   ```bash
-   python3 -m venv venv
-   source venv/bin/activate  # On Windows use `venv\Scripts\activate`
-   pip install -r requirements.txt
-   ```
+   Download the data from [https://drive.google.com/drive/folders/1SWqoulMh5-bmg4ewHXICkfaekPFYpWSh?usp=drive_link](https://drive.google.com/drive/folders/1SWqoulMh5-bmg4ewHXICkfaekPFYpWSh?usp=drive_link) and move it to the directory where you cloned the repository.
    
 3. **Launch Jupyter Notebook**
    
