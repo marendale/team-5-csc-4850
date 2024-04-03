@@ -58,23 +58,17 @@ Before you begin, ensure you have the following installed:
 
 4. **Open the Notebook**
    
-   In the Jupyter interface, navigate to the directory where the repository was cloned and open the `.ipynb` file.
+   In the Jupyter interface, navigate to the directory where the repository was cloned and open the `Drug_Orchestra_Model_Testing.ipynb` file.
 
 ### Configuring the Notebook
 
-1. **Set the Data Path**
+With the `Drug_Orchestra_Model_Testing` notebook open, you can now run all the cells in the notebook. In Jupyter Notebook, you can do this by clicking on `Kernel` > `Restart & Run All`. In JupyterLab, the option might be slightly different but will be found under the Run menu.
 
-   In the notebook, find the line where the path variable is set. It will look something like this:
+## Results
 
-   ```python
-   path = '/path_to_data_InSummary/Drug_{}/{}/drug_embedding.csv'
-   ```
+### Drug Orchestra Results
 
-   Replace the `path_to_data_InSummary` with the appropriate values for your data.
-
-2. **Run the Notebook**
-
-   With the path variable set, you can now run all the cells in the notebook. In Jupyter Notebook, you can do this by clicking on `Kernel` > `Restart & Run All`. In JupyterLab, the option might be slightly different but will be found under the Run menu.
+### Project Results
    
    
 
