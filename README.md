@@ -8,7 +8,8 @@ This repository contains the model testing python notebook used to generate data
 
 - Link to the paper: [https://www.biorxiv.org/content/10.1101/2020.11.17.385757v1.full](https://www.biorxiv.org/content/10.1101/2020.11.17.385757v1.full)
 - Link to the GitHub: [https://github.com/jiangdada1221/DrugOrchestra](https://github.com/jiangdada1221/DrugOrchestra)
-- Link to the data: [https://drive.google.com/file/d/1JvGDiNMAqWJb4Ya0c7ahV9fM1MCjtkxA/view](https://drive.google.com/file/d/1JvGDiNMAqWJb4Ya0c7ahV9fM1MCjtkxA/view)
+- Link to the summary data: [https://drive.google.com/file/d/1JvGDiNMAqWJb4Ya0c7ahV9fM1MCjtkxA/view](https://drive.google.com/file/d/1JvGDiNMAqWJb4Ya0c7ahV9fM1MCjtkxA/view)
+- Link to the preprocessed data: [https://drive.google.com/drive/folders/1SWqoulMh5-bmg4ewHXICkfaekPFYpWSh?usp=drive_link](https://drive.google.com/drive/folders/1SWqoulMh5-bmg4ewHXICkfaekPFYpWSh?usp=drive_link)
 
 ## Getting Started
 
