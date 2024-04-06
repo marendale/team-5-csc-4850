@@ -66,13 +66,45 @@ With the `Drug_Orchestra_Model_Testing` notebook open, you can now run all the c
 
 ## Results
 
-### Drug Orchestra Results
+### Model Results
 
-![results/dor.png](results/dor.png)
+![results/results.png](results/results.png)
 
-### Project Results
+### Transferability
 
-![results/pr.png](results/pr.png)
+1. **KNN**
+
+   ![results/knn_data.png](results/knn_data.png)
+   ![results/knn_task.png](results/knn_task.png)
+
+2. **Linear Regression**
+
+   ![results/lin_data.png](results/lin_data.png)
+   ![results/lin_task.png](results/lin_task.png)
+
+3. **Decision Tree**
+
+   ![results/dt_data.png](results/dt_data.png)
+   ![results/dt_task.png](results/dt_task.png)
+
+4. **Random Froest**
+
+   ![results/rf_data.png](results/rf_data.png)
+   ![results/rf_task.png](results/rf_task.png)
+
+
+5. **Gradient Boosting Tree**
+   
+   ![results/gb_data.png](results/gb_data.png)
+   ![results/gb_task.png](results/gb_task.png)
+
+
+6. **SVM**
+
+   ![results/svm_data.png](results/svm_data.png)
+   ![results/svm_task.png](results/svm_task.png)
+
+
 
    
 
